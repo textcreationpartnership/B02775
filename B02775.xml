@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Draught of an act for regulating agents</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02775</idno>
+            <idno type="STC">Wing D2141A</idno>
+            <idno type="STC">ESTC R174740</idno>
+            <idno type="EEBO-CITATION">52528792</idno>
+            <idno type="OCLC">ocm 52528792</idno>
+            <idno type="VID">178760</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178760)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2769:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Draught of an act for regulating agents</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1672?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>A proposal to prevent anyone other than those named by the Faculty of Advocates from managing process before the Lords of Session.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faculty of Advocates (Edinburgh, Scotland) --  Early works to 1800.</term>
+               <term>Process --  Scotland --  Early works to 1800.</term>
+               <term>Lawyers --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178760:1"/>
+            <pb facs="tcp:178760:1" rendition="simple:additions"/>
+            <head>Draught of an ACT for regulating Agents</head>
+            <p>OUR Soveraign Lord conſidering the many and great abuſes which have creept in, in the managing of Pr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſes before the Lords of Seſſion by mean &amp; inconſiderable perſons, who have aſſumed to themſelves the name of A<g ref="char:EOLhyphen"/>gents to the great prejudice of the Liedges both by reaſon of their want of pro<g ref="char:EOLhyphen"/>bity and their little Knowledge and Experience in ſuch Affairs, whereby many people have been extremly prejudged, and ſome utterly ruined; and alſo to the diſcouragement of many good men, who by their Education &amp; Experience have attained to ſufficient knowledge in that matter, and are of known Integrity: <hi>Doth therefore</hi> with advice and conſent of the Eſtates of Parliament, Statute, Enact and Declare, that for hereafter no perſon ſhall be allowed to manage or agent any Proces before the Lords of Seſſion, except ſuch as ſhall be nam<g ref="char:EOLhyphen"/>ed by the faculty of Advocats or offer themſelves to be named, &amp; thereafter parti<g ref="char:EOLunhyphen"/>cularly approven of &amp; recaved by the ſaids Lords, which Agents ſo approven &amp; re<g ref="char:EOLhyphen"/>ceived by them, ſhall have the only power and Liberty of agenting excluſive of all others, but prejudice of the priviledge due to Advocats and their firſt Ser<g ref="char:EOLhyphen"/>vants as formerly; As alſo to parties to Agent in their own proceſes, and but prejudice to the Lords of Seſſion and Faculty of Advocats to licence ſuch to Agent particular Proceſes, whom for deſign of ſtudying the Law to be Advo<g ref="char:EOLhyphen"/>cats and intereſt in the parties, the ſaids Lords and Faculty of Advocats ſhall think fit: And farder the ſaids Agents ſo approven and received as ſaid is, are hereby declared to have right to and enjoy the Priviledges of the members of the Colledge of Juſtice: As alſo are allowed to meet among themſelves for this effect allannerly that they may repreſent to the Lords of Seſſion any abuſe they may find to be committed in the ſaid Office by their own Members or the Incroachments of others who ſhall aſſume that Imployment at their own hand: As alſo to pro<g ref="char:EOLhyphen"/>vide a Stock-purſe for ſupplying of their decayed Members or their Relicts and Children who may fall in Poverty, and that by voluntar Contribution, Legacy, Donation or ſuch other Method as the Law <hi>allows.</hi>
+            </p>
+            <div type="part">
+               <head>Follows the Reaſons for paſſing of the foreſaid Act.</head>
+               <p n="1">1. AS this imployment is found neceſſary by the <hi>Experience</hi> of all Nations that have regular Buſineſs; under the name of <hi>Procurators</hi> in ſeve<g ref="char:EOLhyphen"/>ral places Abroad, and of <hi>Attorneys</hi> in <hi>England;</hi> So the ſame is of great <hi>Importance,</hi> and conſequently to be truſted only in <hi>good hands.</hi> For, Agents come to have the Truſt not only of their imployers <hi>Writes,</hi> but like<g ref="char:EOLhyphen"/>wiſe, in many caſes, thoſe of others: The Clients Secrets are depoſited in their Breaſts, and the <hi>fair,</hi> and <hi>ſucceſsfull,</hi> and <hi>Expeditious,</hi> carrying on of Proceſ<g ref="char:EOLhyphen"/>es depends mainly, in the firſt place, upon their being right founded at the be<g ref="char:EOLhyphen"/>ginning after a full knowledge of the <hi>matter of fact</hi> and <hi>Writes;</hi> and in the next place on the carefull <hi>attendance of Dyets</hi> with the Lords, Advocats, Clerks, Writers, <hi>&amp;c.</hi> Both which depends upon the Underſtanding and Vigilence of the Agent; who is to expiſcat the <hi>whole Circumſtanses</hi> of the Affair by adviſe of Advocats (who can only anſwer on what is <hi>repreſented)</hi> before the Liedges be troubled with the Expenſe of any Action; and the exact information there anent, and preciſe obſervance of Dyets in proceſſes, would prevent the <hi>ſcandal</hi> of <hi>calumnious Alledgeances,</hi> the <hi>trouble of the Lords</hi> in frequent Callings, the prejudice of the <hi>Clients</hi> by <hi>long dependances,</hi> and the <hi>diſcredit</hi> to Advocats ar<g ref="char:EOLhyphen"/>riſing from Miſcarriages in Proceſſes, which, tho commonly imputed to them (there names only being inſert therein) yet are truly aſcrivable moſtly to the <hi>ignorance</hi> or <hi>unfaithfulneſs</hi> of the Agent.</p>
+               <pb facs="tcp:178760:2"/>
+               <p>And its known how much the making a narrative of the ſtate and Circum<g ref="char:EOLhyphen"/>ſtances of Proceſes from time to time progreſſively by way of Journal; and conſidering the <hi>Seaſons</hi> of proceeding in the Buſineſs; would <hi>clear</hi> the affair both to the Lords and Advocats. The want whereof has been one great oc<g ref="char:EOLhyphen"/>caſion of much <hi>Confuſion, Miſcarriage</hi> of mens Rights, and <hi>delays;</hi> But as the <hi>blame</hi> of it will betaken off of the Advocats when Agents are only a ſelect Number of ſuch as are admitted in manner mentioned in the Act: So this Regulation will prevent the <hi>abuſe,</hi> which is agreeable to the <hi>Constitution of the Nation</hi> wherein other Imployments of far leſs <hi>import,</hi> cannot be taken up at any perſons own hand; But are under a Regulation as to <hi>admiſſion</hi> thereto &amp; behavior therein; Which cannot but be well provided for, in the preſent caſe, when Agents are to be named by the Advocats and admitted by the Lords.</p>
+               <p n="2">2. Hence this will be the intereſt of the <hi>whole Leidges,</hi> ſince</p>
+               <p n="1">1. There have been many <hi>Writes</hi> of the greateſt Importance <hi>lost,</hi> not only by the careleſneſs and unfaithfulneſs of Manadgers: But likewiſe on occaſion of its being <hi>unknown where to ſeek them,</hi> tho, perhaps, they may be lying amongſt the papers of a perſon who was an Agent, after his Removal or Deceaſe: But that comes to be <hi>totally forgot</hi> while <hi>de recenti,</hi> the parties are Minors, abſents, or under ſuch <hi>other diſadvantagious</hi> Circumſtances. Whereas, now, Agents will be known, and ſuch a Regulation will follow on their Eſtabliſhment: as after death or removal, their Papers belonging to others, will be put in ſafety; and <hi>Inventars</hi> thereof patent in ſuch manner, as any of the Liedges may find out what he wants.</p>
+               <p n="2">2. The Leidges will be freed of being <hi>impoſed upon,</hi> by ſeveral perſons who have neither Skill nor probitie; but aſſume to themſelves the name of Agents; and thereby be liberat of <hi>groundleſs Pleas, miſmanadgment</hi> of Buſineſs, <hi>protract<g ref="char:EOLhyphen"/>ing</hi> of Proceſſes, unfaithfull <hi>accompts,</hi> &amp;c. whereof there has been ſuch Com<g ref="char:EOLhyphen"/>plaint.</p>
+               <p n="3">3. The Lords are ſubjected to great fatigue and Vexation, chiefly by occaſi<g ref="char:EOLhyphen"/>on of Proceſſes being confuſed and out of Order; Of Writes founded upon therein, <hi>not being marked diſtinctly</hi> at the places mentioned in the Alledgeance; Of the Advocats not being fully <hi>informed,</hi> and frequently not <hi>advertiſed,</hi> when the Proceſs is firſt called, or at ſubſequent Callings thereof <hi>&amp;c.</hi> all which will be prevented by the ſufficiency of the Agent.</p>
+               <p n="4">4. The Lords do challenge the Advocats when they are not <hi>ready</hi> or <hi>diſtinct,</hi> So in the Country, for the moſt part, <hi>all the Fatalities</hi> that fall upon the Action, are laid to the Advocats ſhare; Whereas were the Agents in a ſelect Number (to be admitted in the terms of the foreſaid Act) they would take off that unjuſt Imputation: and in effect the moſt of Manadgers about the houſe, from the <hi>falſe Character,</hi> wherewith they are aſperſt by thoſe who are <hi>ignorant</hi> of their Conſtitution.</p>
+               <p n="5">5. The <hi>poor of the Nation</hi> will likewiſe reap the benefite of this Act, for, they may have Agents appointed to manage their pnrſuits the ſame way and manner as they have their Advocats and Writers to the Signet, Beſides that at preſent, there is <hi>no fond</hi> for the indigent Relicts or Children of Writers, who as they will be provided for when Agents are put under this Regulations, So the <hi>other poor</hi> will get <hi>theſe Charities</hi> which are at preſent expended on ſuch.</p>
+               <p>Finally: When Agents are ſo immediatly under a <hi>ſpecial Government</hi> their <hi>actions</hi> will be more particularly ſuperviſed then it was practicable hither<g ref="char:EOLhyphen"/>to, when they were diſperſed. And as this will be a check on their ſufficiency vigilance and faithfulneſs in their Imployment towards the Leidges: So it will be a <hi>good mean</hi> to reſtrain <hi>Immoralities,</hi> which our King and Government has taken ſo much pains to prevent.</p>
+               <pb facs="tcp:178760:2"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
